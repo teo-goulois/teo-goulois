@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @teo-goulois
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm Téo 👋
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=teo-goulois&langs_count=5&theme=tokyonight)]()
+Welcome to my GitHub profile! I'm a passionate Full-Stack Developer specialized in crafting highly responsive and accessible web applications. I mostly use Next.js, TypeScript, and TailwindCSS enables me to build solutions that not only look great but also provide smooth, intuitive user experiences.
+
+## My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teo-goulois&layout=compact&theme=swift)
+
 
 <!---
 teo-goulois/teo-goulois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
